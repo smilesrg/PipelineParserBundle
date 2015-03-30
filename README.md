@@ -44,5 +44,5 @@ The last step is to use pipeline parser as described in [documentation](https://
 
 fos_comment:
     service:
-        markup: your_markup_service
+        markup: markuper.pipeline_parser # The pipeline parser service
 ```
